@@ -1,2 +1,3 @@
 # GarageSale
-Projeto Garage Sale S2B - Rodrigo Avellar e Manoela Rivera
+Projeto Garage Sale S2B
+Contribuidores: Rodrigo Avellar e Manoela Rivera
